@@ -1,6 +1,8 @@
 # ✅Postman HW-№4
 Сontent:
-- 📖Completed homework
+- 📖Completed homework 1
+- 📖Completed homework 2
+- 📖Completed homework 3
 
 # 📚Tasks:
 - Tasks HW 1
